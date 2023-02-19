@@ -20,8 +20,8 @@ The goal is to determine how much the effectiveness of each of these methods dif
 - What is the probability of a player escaping the bus when they employ each of the three meetings.
 - When a game ends, on average, what is the number of cards left in the deck, if any?
 
-Plan and progress:
-- [x] Implement data classes needed to simulate the game (e,g, cards, a deck that can be shuffled and drawn from etc.)
+### Plan and progress:
+- [x] Implement data classes needed to simulate the game (e.g. cards, a deck that can be shuffled and drawn from etc.)
 - [x] Create a game class which allows us to create a method that simulates each of the three modes
 - [x] Implement random mode
 - [x] Implement sensible mode
